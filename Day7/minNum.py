@@ -12,3 +12,4 @@ class Solution:
             new_nums.append(alice)
             nums.remove(bob)
         return new_nums
+ 
