@@ -15,22 +15,11 @@ Welcome to my repository for **LETSHACK**! This event is the highly anticipated 
 * **Start Date:** 12th June 2026
 * **Registration:** ₹20 (Free for Phase I participants)
 
-## 💻 Project Showcase
-> **Note:** Project details, architecture, and source code will be updated here during the hackathon. 
 
 ### 🛠 Tech Stack & Tools
-* *(Add the tools you'll be integrating here - e.g., Terminal-based workflows, RISC-V, Flutter, etc.)*
+python
 
-### ⚙️ How to Run
-```bash
-# Clone the repository
-git clone https://github.com/adharshio/letshack-project.git
 
-# Navigate to the project directory
-cd letshack-project
-
-# Run the project
-# (Add your execution commands here)
 ```
 
 ## 👨‍💻 Author
