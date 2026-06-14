@@ -19,9 +19,6 @@ Welcome to my repository for **LETSHACK**! This event is the highly anticipated 
 ### 🛠 Tech Stack & Tools
 python
 
-
-```
-
 ## 👨‍💻 Author
 **Adharsh K**
 * GitHub: [@adharshio](https://github.com/adharshio)
